@@ -59,6 +59,11 @@
       <br>Pytorch
     </td>   
     <td align="center"  width="96">
+        <a href="https://www.java.com/en/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <br>JAVA
+    </td>
+    <td align="center"  width="96">
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -79,14 +84,14 @@
         <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="48" height="48" />
       <br>Flask
       </td>
+        
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
       </td>
-        
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
