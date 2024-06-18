@@ -123,7 +123,9 @@
   <br/>
   <a href="https://github.com/Bhavishya-Chaturvedi/github-readme-stats"><img alt="Bhavishya Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-Chaturvedi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
+  <br/>
+
+![](https://komarev.com/ghpvc/?username=Bhavishya-Chaturvedi&style=for-the-badge)
 
 
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" />.....
