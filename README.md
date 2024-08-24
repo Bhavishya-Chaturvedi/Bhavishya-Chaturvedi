@@ -1,6 +1,6 @@
 ## ⚡ About Meee:
 - 👋 Hi, I’m @Bhavishya-Chaturvedi
-- 👀 I’m interested in developing interactive applications not limited to auido-visual sensations 
+- 👀 I’m interested in developing interactive applications not limited to audio-visual sensations 
 - 🌱 I’m currently learning Artifical Intelligence and recent advancements
 - 💞️ I’m looking to collaborate on various oppurtunities but currently focusing on improving fundamentals
 - 📫 How to reach me bhavishyachaturvedi@gmail.com
