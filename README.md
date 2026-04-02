@@ -124,11 +124,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhavishya streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavishya-Chaturvedi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   <br/>
-  <a href="https://github.com/Bhavishya-Chaturvedi/github-readme-stats"><img alt="Bhavishya Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavishya-Chaturvedi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <a href="https://github.com/Bhavishya-Chaturvedi/github-readme-stats"><img alt="Bhavishya Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-Chaturvedi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
 
 ![](https://komarev.com/ghpvc/?username=Bhavishya-Chaturvedi&style=for-the-badge)
 
